@@ -1,7 +1,1 @@
-"nihao"
-i am a super man
-
-333
-333
-222
-
+"hello world" 
